@@ -96,8 +96,3 @@ Voici quelques commandes utiles pour travailler avec le projet :
 - **Nom de l'auteur** : Sahmi Lamrani Aya Kader Zoubida  
 
 ---
-
-
-## Screenshots (facultatif)
-
-Ajoutez ici des captures d'écran de l'application ou des vidéos démo pour illustrer son fonctionnement.
