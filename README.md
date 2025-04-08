@@ -26,8 +26,8 @@ Avant de commencer, assurez-vous d'avoir installé **Docker** et **Docker Compos
 
 1. Clonez le dépôt du projet :
    ```
-   git clone https://github.com/username/mini-projet-cloud-2025.git
-   cd mini-projet-cloud-2025
+   git clone https://github.com/aya-sahmi/projet_docker
+   cd projet_docker
    ```
 
 2. Construisez l'image Docker pour le projet :
